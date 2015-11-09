@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Sbromberger.GitHub.io by sbromberger</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/pubs.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/github-light.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+{% include header.html %}
+      </header>
+      <section>
+<h2>Publications &amp; Citations</h2>
+<ul class="pubs">
+  {% for pub in site.data.pubs %}
+    <li class="pub">
+        {% if pub.url != null %}
+        <span class="pubtitle"><a href="{{ pub.url }}">{{ pub.title }}</a></span>
+        {% else %}
+        <span class="pubtitle">{{ pub.title }}</span>
+        {% endif %}
+        <br />
+        <span class="pubvenue">{{ pub.venue }}</span>,
+        <span class="pubdate">{{ pub.date }}</span>
+    </li>
+  {% endfor %}
+</ul>
+<h2>Press Releases</h2>
+<ul class="pubs">
+  {% for pub in site.data.pressrels %}
+    <li class="pub">
+        {% if pub.url != null %}
+        <span class="pubtitle"><a href="{{ pub.url }}">{{ pub.title }}</a></span>
+        {% else %}
+        <span class="pubtitle">{{ pub.title }}</span>
+        {% endif %}
+        <br />
+        <span class="pubvenue">{{ pub.venue }}</span>,
+        <span class="pubdate">{{ pub.date }}</span>
+    </li>
+  {% endfor %}
+</ul>
+      </section>
+      <footer>
+{% include footer.html %}
+      </footer>
+    </div>
+    <script src="/javascripts/scale.fix.js"></script>
+
+  </body>
+</html>

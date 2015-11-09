@@ -1,0 +1,20 @@
+ul.pubs li.pub:nth-child(even){
+    background:#f0f0f0;
+}
+
+ul.pubs {
+    list-style: none;
+}
+
+.pub {
+    padding: 5px 10px 5px 10px;
+}
+.pubtitle {
+  font-weight: bold;
+  font-size: small;
+}
+
+.pubvenue, .pubdate {
+  size: small;
+  font-style: italic;
+}
