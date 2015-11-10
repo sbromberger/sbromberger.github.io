@@ -2,7 +2,7 @@
 title: Seth Bromberger
 layout: default
 ---
-## Projects and Research
+## Projects & Research
 
 <br/>
 
@@ -10,7 +10,7 @@ layout: default
 [Julia](http://julialang.org) is a relatively new programming language focused on technical and scientific computing. I have been modeling AMI mesh networks using an <a href="http://github.com/JuliaGraphs/LightGraphs.jl"> optimized graph representation</a> that I developed along with the necessary algorithms to perform simulations of various responses to network events.
 [LightGraphs.jl](http://github.com/JuliaGraphs/LightGraphs.jl) has been designed to scale to millions of vertices with hundreds of millions of edges on standard computing hardware, making accurate representation of modern AMI networks feasible.
 
-I am the author of a [memory-efficient representation of IPv4 and IPv6 networks](http://github.com/JuliaWeb/IPNets.jl) which is also used for this modeling and simulation activity and am a member of the [JuliaGraphs](http://github.com/JuliaWeb">JuliaWeb</a> and <a href="http://github.com/JuliaGraphs) organizations.
+I am the author of a [memory-efficient representation of IPv4 and IPv6 networks](http://github.com/JuliaWeb/IPNets.jl) which is also used for this modeling and simulation activity and am a member of the [JuliaWeb](http://github.com/JuliaWeb) and [JuliaGraphs](http://github.com/JuliaGraphs) organizations.
 
 <br/>
 
