@@ -4,6 +4,8 @@ layout: default
 ---
 ## About Seth Bromberger
 
+<br/>
+
 Seth Bromberger has been involved in network and systems security for over nineteen years. His work history spans multiple industries and sectors including government, finance, and energy.
 
 At [Lawrence Livermore National Laboratory](http://www.llnl.gov), Seth is exploring practical methods to improve the security of next-generation energy transmission and distribution systems. He is also Principal at [NCI Security LLC](http://www.ncisecurity.com), a consulting firm dedicated to the protection of domestic and international critical infrastructure. Previously, he was the Executive Vice President of Classified and Government Programs at Energy Sector Security Consortium, a registered 501(c)(3) non-profit organization he co-founded in 2008.
