@@ -2,7 +2,7 @@
 title: Seth Bromberger
 layout: default
 ---
-## Projects and Research
+## Projects & Research
 
 <br/>
 
