@@ -26,7 +26,7 @@ I have spent the last several years researching the security implications of Ind
 
 In 2012, I was listed in [<i>Smart Grid Today</i> magazine](http://www.smartgridtoday.com/products/Smart-Grid-PIONEERS-2012.cfm) as one of its Smart Grid Pioneers.
 
-I continue to study the use of [existing security technologies](/pubs/pki_whitepaper_1.4.pdf) within these new environments, and to [report](http://energy.gov/sites/prod/files/oeprod/DocumentsandMedia/DNS_Exfiltration_2011-01-01_v1.1.pdf) on [deficiencies](http://www.us-cert.gov/control_systems/pdf/ICSA-12-348-01.pdf), and provide mitigation suggestions, where appropriate.
+I continue to study the use of [existing security technologies](/files/pki_whitepaper_1.4.pdf) within these new environments, and to [report](http://energy.gov/sites/prod/files/oeprod/DocumentsandMedia/DNS_Exfiltration_2011-01-01_v1.1.pdf) on [deficiencies](http://www.us-cert.gov/control_systems/pdf/ICSA-12-348-01.pdf), and provide mitigation suggestions, where appropriate.
 
 <br/>
 

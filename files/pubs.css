@@ -1,0 +1,33 @@
+.pubsection {
+        padding-bottom: 1.5em;
+        list-style: none;
+}
+
+.pubinfo {
+    list-style: none;
+}
+
+.second {
+        padding-top: 2em;
+}
+
+.col2 {
+    width: 25%;
+}
+
+
+.col3 {
+    width: 10%;
+}
+
+.pubtitle {
+    font-size: normal;
+    font-weight: bold;
+}
+
+.pubvenue, .pubdate {
+    font-size: smaller;
+    font-style: italic;
+}
+
+.pubsection li.pubitem:nth-child(even) { background: #f0f0f0; }
