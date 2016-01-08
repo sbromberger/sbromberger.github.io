@@ -146,12 +146,12 @@
     date: 2 April 2012
 
 -   title: "PKI Security Considerations For AMI Networks"
-    url: PKI_Security_whitepaper_slides.pdf
+    url: /files/PKI_Security_whitepaper_slides.pdf
     venue: NESCO Webinar
     date: 29 March 2012
 
 -   title: "Security Logging in the Utility Sector: Roadmap to Improved Maturity"
-    url: SecurityLoggingCMM1.0.pdf
+    url: /files/SecurityLoggingCMM1.0.pdf
     venue: Published Paper
     date: 12 March 2012
 
@@ -166,7 +166,7 @@
     date: 28 February 2012
 
 -   title: "PKI Security Considerations for AMI, Smart Grid, and ICS Networks"
-    url: pki_whitepaper_1.4.pdf
+    url: /files/pki_whitepaper_1.4.pdf
     venue: Published Paper
     date: 12 January 2012
 
@@ -276,7 +276,7 @@
     date: 9 January 2009
 
 -   title: "The SCADA Honeynet Experience at INL"
-    url: honeypots%20and%20control%20systems.pdf
+    url: /files/honeypots%20and%20control%20systems.pdf
     venue: Published Paper
     date: 12 November 2008
 
