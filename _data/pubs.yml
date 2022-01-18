@@ -254,13 +254,13 @@
     venue: CMU CyLab
     date: 3 March 2010
 
--   title: "Critical condition: Utility infrastructure"
-    url: http://www.scmagazine.com/critical-condition-utility-infrastructure/article/161689/
+-   title: "Critical Condition: Utility Infrastructure"
+    url: https://www.scmagazine.com/feature/-/critical-condition-utility-infrastructure
     venue: SC Magazine
     date: 1 February 2010
 
 -   title: "Hunkering Down To Specify Smart Grid Security Standards"
-    url: http://www.loglogic.com/sites/default/files/renew-grid-100109.pdf
+    url: files/renew-grid-100109.pdf
     venue: RenewGrid
     date: 15 October 2009
 
@@ -269,12 +269,12 @@
     venue: Cyber Security West Conference
     date: 14 October 2009
 
--   title: "Sharing threat data is key to securing the power grid"
+-   title: "Sharing Threat Data Is Key To Securing The Power Grid"
     url: http://gcn.com/articles/2009/09/28/gcn-interview-seth-bromberger-power-grid-security.aspx?sc_lang=en
     venue: GCN
     date: 24 September 2009
 
--   title: "Electric industry creates alternative channel for sharing data on infrastructure security"
+-   title: "Electric Industry Creates Alternative Channel For Sharing Data On Infrastructure Security"
     url: http://washingtontechnology.com/articles/2009/08/11/energysec-data-sharing-coalition.aspx
     venue: Washington Technology
     date: 11 August 2009
@@ -284,9 +284,8 @@
     venue: Baseline Magazine
     date: 27 May 2009
 
--   title: "The energy sector needs information sharing, too"
-    url: http://www.scmagazine.com/the-energy-sector-needs-information-sharing-too/article/155449/
-    venue: SC Magazine
+-   title: "The Energy Sector Needs Information Sharing, Too"
+    url: files/Bromberger-EnergySectorNeedsInfoSharingToo.pdf
     date: 8 May 2009
 
 -   title: "With Economic Slump, Concerns Rise Over Data Theft"
@@ -304,22 +303,22 @@
     date: 12 November 2008
 
 -   title: "Computer Threat for Industrial Systems Now More Serious"
-    url: http://www.pcworld.com/businesscenter/article/150888/computer_threat_for_industrial_systems_now_more_serious.html
+    url: https://www.pcworld.com/article/536728/system_threats.html
     venue: IDG News
     date: 10 September 2008
 
--   title: "Software watchdog working on enterprise security metrics"
-    url: http://news.idg.no/cw/art.cfm?id=42E8CBFA-17A4-0F78-313DC86F78F40557
+-   title: "Software Watchdog Working On Enterprise Security Metrics"
+    url: files/Bromberger-SoftwareWatchdogWorkingOnEnterpriseSecurityMetrics.pdf
     venue: IDG News
     date: 9 August 2008
 
 -   title: "How to Prioritize Threats (Without Spending Big Bucks)"
-    url: http://www.csoonline.com/article/print/330670
+    url: https://www.csoonline.com/article/2122540/how-to-prioritize-threats--without-spending-big-bucks-.html
     venue: CSO Magazine
     date: 17 April 2008
 
 -   title: "Researcher Puts Quantitative Measurement on Information Security Threats"
-    url: http://searchsecurity.techtarget.com/magazineContent/Researcher-Puts-Quantitative-Measurement-on-Information-Security-Threats
+    url: files/Bromberger-ResearcherPutsQuantitativeMeasurement.pdf
     venue: Information Security Magazine
     date: 15 March 2008
 
