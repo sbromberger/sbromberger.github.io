@@ -5,8 +5,8 @@ layout: default
 
 <br/><br/><br/><br/>
 
-I'm Seth Bromberger. I create and manage security programs and organizations, focusing particularly on critical infrastructure (industries like energy, finance, manufacturing, and IT).
+I'm Seth Bromberger. I create and manage security programs and organizations, focusing particularly on critical infrastructure (industries like energy, finance, manufacturing, and IT). I'm also a teacher.
 
-I am an Applied Research Scientist at [Lawrence Livermore National Laboratory](http://www.llnl.gov), exploring security issues affecting critical infrastructure. I occasionally [develop](/projects#topsight) [tools](http://netcanary.com) to solve interesting security problems. More often, I find ways to use existing research and tools in novel security contexts.
+As an Applied Research Scientist at [Lawrence Livermore National Laboratory](https://www.llnl.gov), I enjoy exploring security issues affecting critical infrastructure. I occasionally [develop tools](/projects) to solve interesting security problems. More often, I find ways to use existing research and tools in novel security contexts.
 
-I also [write a bit of code](https://github.com/sbromberger) that helps me do my work.
+Most recently, I am an Adjunct Professor of Computer Science at [California State University, East Bay](https://www.csueastbay.edu) where I teach CS471, *Security and Information Assurance*.
