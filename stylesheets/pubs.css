@@ -15,6 +15,6 @@ ul.pubs {
 }
 
 .pubvenue, .pubdate {
-  size: small;
+  font-size: small;
   font-style: italic;
 }
