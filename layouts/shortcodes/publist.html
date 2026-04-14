@@ -1,0 +1,14 @@
+{{ $items := index .Site.Data (.Get 0) }}
+<ul class="pubs">
+  {{ range $items }}
+  <li style="margin-bottom: 0.75rem;">
+    {{ if .url -}}
+    <strong><a href="{{ .url }}">{{ .title }}</a></strong>
+    {{- else -}}
+    <strong>{{ .title }}</strong>
+    {{- end }}
+    {{ with .venue }}<br><span>{{ . }}</span>{{ end -}}
+    {{ with .date }}, {{ . }}{{ end }}
+  </li>
+  {{ end }}
+</ul>
