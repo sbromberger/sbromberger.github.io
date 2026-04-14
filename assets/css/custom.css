@@ -30,16 +30,3 @@ article header h1 {
   text-align: justify;
 }
 
-/* Float-left photo on the homepage */
-.home-photo {
-  float: left;
-  margin: 0 1.75rem 1rem 0;
-  width: 150px;
-}
-
-/* Clear float after homepage content */
-.home-content::after {
-  content: "";
-  display: table;
-  clear: both;
-}
