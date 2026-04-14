@@ -1,0 +1,10 @@
+baseURL = "https://www.bromberger.com/"
+languageCode = "en"
+title = "Seth Bromberger"
+theme = "congo"
+
+[markup.goldmark.parser.attribute]
+  block = true
+
+[markup.goldmark.renderer]
+  unsafe = true
