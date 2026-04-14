@@ -4,7 +4,7 @@ title: "Projects & Research"
 
 ### Julia - A Fresh Approach To Numerical Computing {#julia}
 
-[Julia](http://julialang.org) is a relatively new programming language focused on technical and scientific computing. I have been modeling AMI mesh networks using an <a href="https://github.com/sbromberger/LightGraphs.jl">optimized graph representation</a> that I developed along with the necessary algorithms to perform simulations of various responses to network events.
+[Julia](http://julialang.org) is a relatively new programming language focused on technical and scientific computing. I have been modeling AMI mesh networks using an [optimized graph representation](https://github.com/sbromberger/LightGraphs.jl) that I developed along with the necessary algorithms to perform simulations of various responses to network events.
 [LightGraphs.jl](https://github.com/sbromberger/LightGraphs.jl) has been designed to scale to millions of vertices with hundreds of millions of edges on standard computing hardware, making accurate representation of modern AMI networks feasible.
 
 I am the author of a [memory-efficient representation of IPv4 and IPv6 networks](https://github.com/JuliaWeb/IPNets.jl) which is also used for this modeling and simulation activity and am a member of the [JuliaWeb](https://github.com/JuliaWeb) and [JuliaGraphs](https://github.com/JuliaGraphs) organizations.

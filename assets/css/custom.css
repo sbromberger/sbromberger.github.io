@@ -1,0 +1,45 @@
+/* Full-width content — override Congo's max-w-prose cap on article layout */
+article div.max-w-prose,
+article header.max-w-prose,
+article footer.max-w-prose {
+  max-width: none;
+}
+
+/* Lighter weight for body text and headings */
+.prose p,
+.prose li,
+.prose td {
+  font-weight: 300;
+}
+
+/* Hide the heavy h1 page title — breadcrumb handles location instead */
+article header h1 {
+  display: none;
+}
+
+/* Headings inside prose content */
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  font-weight: 400;
+}
+
+/* Full justification for prose paragraphs */
+.prose p {
+  text-align: justify;
+}
+
+/* Float-left photo on the homepage */
+.home-photo {
+  float: left;
+  margin: 0 1.75rem 1rem 0;
+  width: 150px;
+}
+
+/* Clear float after homepage content */
+.home-content::after {
+  content: "";
+  display: table;
+  clear: both;
+}

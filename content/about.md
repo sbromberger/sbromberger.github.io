@@ -1,5 +1,5 @@
 ---
-title: "About Seth Bromberger"
+title: "About"
 ---
 
 Seth Bromberger has spent more than thirty years working in network and systems security across government, finance, energy, and defense.
