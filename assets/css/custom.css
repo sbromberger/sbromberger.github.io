@@ -17,6 +17,11 @@ article header h1 {
   display: none;
 }
 
+/* Lighter weight for profile card name */
+section.not-prose h1 {
+  font-weight: 300 !important;
+}
+
 /* Headings inside prose content */
 .prose h1,
 .prose h2,
@@ -30,16 +35,3 @@ article header h1 {
   text-align: justify;
 }
 
-/* Float-left photo on the homepage */
-.home-photo {
-  float: left;
-  margin: 0 1.75rem 1rem 0;
-  width: 150px;
-}
-
-/* Clear float after homepage content */
-.home-content::after {
-  content: "";
-  display: table;
-  clear: both;
-}
