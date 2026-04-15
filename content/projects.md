@@ -2,6 +2,14 @@
 title: "Projects & Research"
 ---
 
+### CLIPPy - A Python Interface to HPC Resources {#clippy}
+
+[CLIPPy](https://github.com/LLNL/clippy) (CLI + Python) exposes precompiled HPC binaries as methods on a dynamically-created Python object, giving researchers and data scientists a familiar interactive interface — at the REPL or in a notebook — without needing to learn complex job submission systems. A detailed description is available in [our IA3 2021 paper](https://ieeexplore.ieee.org/abstract/document/9652966).
+
+### MetallData - HPC-Scale Interactive Data Science {#metalldata}
+
+[MetallData](https://github.com/MetallData/metalldata) is an HPC platform for interactive data science at scale. Its centerpiece is MetallGraph, a persistent distributed graph data structure designed to handle tens of billions of nodes on HPC systems.
+
 ### Julia - A Fresh Approach To Numerical Computing {#julia}
 
 [Julia](http://julialang.org) is a relatively new programming language focused on technical and scientific computing. I have been modeling AMI mesh networks using an [optimized graph representation](https://github.com/sbromberger/LightGraphs.jl) that I developed along with the necessary algorithms to perform simulations of various responses to network events.
