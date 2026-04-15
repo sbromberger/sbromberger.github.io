@@ -17,6 +17,11 @@ article header h1 {
   display: none;
 }
 
+/* Lighter weight for profile card name */
+section.not-prose h1 {
+  font-weight: 300 !important;
+}
+
 /* Headings inside prose content */
 .prose h1,
 .prose h2,
