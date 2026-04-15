@@ -66,7 +66,7 @@
     date: 21 May 2014
 
 -   title: "Defining Criticality in a Networked World: Implications of the Use of Information and Communications Technology for Efforts to Promote the Security and Resilience of Critical Infrastructure"
-    url: http://ssrn.com/abstract=2519887
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2519887
     venue: Co-author
     date: 17 January 2014
 
@@ -95,7 +95,7 @@
     date: 13 December 2012
 
 -   title: "Cybersecurity: Getting Ahead of the Wave"
-    url: http://www.sfbar.org/calendar/eventdetail.aspx?id=G121104/G121104
+    url:
     venue: San Francisco Bar Assoc.
     date: 5 November 2012
 
@@ -126,7 +126,7 @@
     date: 28 August 2012
 
 -   title: "Towards a Quantitative Threat Methodology"
-    url: http://www.cvent.com/events/2012-gfirst-national-conference/agenda-543fc6c7d28f411e99b20132cd7d6041.aspx
+    url:
     venue: GFIRST 2012 conference
     date: 22 August 2012
 
@@ -135,7 +135,7 @@
     date: 17 August 2012
 
 -   title: "Information Sharing Is The Only Way To Defeat The Cyber Onslaught"
-    url: http://www.oilandgasiq.com/strategy-management-and-information/podcasts/information-sharing-is-the-only-way-to-defeat-the/
+    url: https://www.oilandgasiq.com/strategy-management-and-information/podcasts/information-sharing-is-the-only-way-to-defeat-the
     venue: Oil and Gas IQ Interview
     date: 27 July 2012
 
@@ -149,7 +149,7 @@
     date: 8 June 2012
 
 -   title: "The Electricity Subsector Cybersecurity Capability Maturity Model"
-    url: http://energy.gov/node/369271
+    url: https://www.energy.gov/ceser/cybersecurity-capability-maturity-model-c2m2
     venue: Contributor
     date: 31 May 2012
 
@@ -176,7 +176,7 @@
     date: 12 March 2012
 
 -   title: "“;Me and My Job”; Profile in SC Magazine"
-    url: http://www.scmagazine.com/me-and-my-job/article/234942/
+    url:
     venue: SC Magazine
     date: 1 March 2012
 
@@ -198,15 +198,17 @@
     date: 27 September 2011
 
 -   title: "SSL Certificate Scandal Exposes Bug in Mac OS X"
-    url: http://securitywatch.pcmag.com/apple/287205-ssl-certificate-scandal-exposes-bug-in-mac-os-x
+    url: https://www.pcworld.com/article/239269/mac_os_x_cant_properly_revoke_dodgy_digital_certificates.html
     venue: PC Magazine
     date: 1 September 2011
 
 -   title: "How to get rid of DigiNotar digital certificates from OS X"
+    url: https://www.engadget.com/2011-09-01-how-to-get-rid-of-diginotar-digital-certificates-from-os-x.html
     venue: TUAW
     date: 1 September 2011
 
 -   title: "Mac OS X Can't Properly Revoke Dodgy Digital Certificates"
+    url: https://www.computerworld.com/article/2738866/mac-os-x-can-t-properly-revoke-dodgy-digital-certificates.html
     venue: IDG News
     date: 31 August 2011
 
@@ -215,12 +217,12 @@
     date: 26 May 2011
 
 -   title: "Smart Grid Security East 2011: Interviews"
-    url: http://www.youtube.com/watch?v=ds8gm3kIRtU
+    url: https://www.youtube.com/watch?v=ds8gm3kIRtU
     venue: Youtube Video
     date: 13 May 2011
 
 -   title: "DNS as a Covert Channel Within Protected Networks"
-    url: http://energy.gov/sites/prod/files/oeprod/DocumentsandMedia/DNS_Exfiltration_2011-01-01_v1.1.pdf
+    url: https://www.energy.gov/sites/default/files/oeprod/DocumentsandMedia/DNS_Exfiltration_2011-01-01_v1.1.pdf
     venue: Published Paper
     date: 25 January 2011
 
@@ -242,7 +244,7 @@
     date: 3 March 2010
 
 -   title: "Critical Condition: Utility Infrastructure"
-    url: https://www.scmagazine.com/feature/-/critical-condition-utility-infrastructure
+    url:
     venue: SC Magazine
     date: 1 February 2010
 
@@ -287,7 +289,7 @@
     date: 12 November 2008
 
 -   title: "Computer Threat for Industrial Systems Now More Serious"
-    url: https://www.pcworld.com/article/536728/system_threats.html
+    url: https://www.pcworld.com/article/150888/system_threats.html
     venue: IDG News
     date: 10 September 2008
 
