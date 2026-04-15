@@ -10,12 +10,20 @@ title: "Projects & Research"
 
 [MetallData](https://github.com/MetallData/metalldata) is an HPC platform for interactive data science at scale. Its centerpiece is MetallGraph, a persistent distributed graph data structure designed to handle tens of billions of nodes on HPC systems.
 
-### Julia - A Fresh Approach To Numerical Computing {#julia}
+### GoMPI - Message Passing Interface for Go {#gompi}
 
-[Julia](http://julialang.org) is a relatively new programming language focused on technical and scientific computing. I have been modeling AMI mesh networks using an [optimized graph representation](https://github.com/sbromberger/LightGraphs.jl) that I developed along with the necessary algorithms to perform simulations of various responses to network events.
-[LightGraphs.jl](https://github.com/sbromberger/LightGraphs.jl) has been designed to scale to millions of vertices with hundreds of millions of edges on standard computing hardware, making accurate representation of modern AMI networks feasible.
+[GoMPI](https://github.com/sbromberger/gompi) is a lightweight Go wrapper around the [OpenMPI](https://www.open-mpi.org) library for developing parallel computing algorithms. At large message sizes, GoMPI matches or exceeds native MPI latency, making it a viable option for high-performance parallel workloads in Go.
 
-I am the author of a [memory-efficient representation of IPv4 and IPv6 networks](https://github.com/JuliaWeb/IPNets.jl) which is also used for this modeling and simulation activity and am a member of the [JuliaWeb](https://github.com/JuliaWeb) and [JuliaGraphs](https://github.com/JuliaGraphs) organizations.
+### GoGraphs - Graph Analytics in Go {#gographs}
+
+[GoGraphs](https://github.com/sbromberger/gographs) is a Go library implementing optimized single-threaded and parallel breadth-first search on large graphs. The parallel BFS work is documented in Egon Elbre's [A Tale of BFS: Going Parallel](https://egonelbre.com/a-tale-of-bfs-going-parallel/), where I led the parallel implementation on a 65-million-node graph.
+
+### LightGraphs.jl - Performant Graph Analytics in Julia{#lightgraphs}
+
+I have been modeling AMI mesh networks using [LightGraphs.jl](https://github.com/sbromberger/LightGraphs.jl), an optimized graph representation that I developed in Julia along with the necessary algorithms to perform simulations of various responses to network events.
+
+LightGraphs.jl has been designed to scale to millions of vertices with hundreds of millions of edges on standard computing hardware, making accurate representation of modern AMI networks feasible.
+
 
 ### NetCanary&trade;: Breaking the Kill Chain {#netcanary}
 
