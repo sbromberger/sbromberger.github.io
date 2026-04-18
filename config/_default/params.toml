@@ -15,7 +15,7 @@ autoSwitchAppearance = true
 [author]
   name = "Seth Bromberger"
   image = "img/avatar.png"
-  headline = "M.S. Eng. · ~~CISSP-ISSMP~~ · CISM · NSA-IAM"
+  headline = "M.S. Eng. · ~~[CISSP-ISSMP](/isc2/)~~ · CISM · NSA-IAM"
   bio = "Educator and security practitioner with three decades protecting critical infrastructure for Fortune 500 companies and federal agencies and conducting security research at national laboratories. Dedicated to developing the next generation of information security leaders."
   links = [
     { github = "https://github.com/sbromberger" },
