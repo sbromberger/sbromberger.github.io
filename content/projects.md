@@ -10,6 +10,12 @@ title: "Projects & Research"
 
 [MetallData](https://github.com/MetallData/metalldata) is an HPC platform for interactive data science at scale. Its centerpiece is MetallGraph, a persistent distributed graph data structure designed to handle tens of billions of nodes on HPC systems.
 
+### ARCoder - Transliterated Arabic Name Encoder {#arcoder}
+
+[ARCoder](https://github.com/sbromberger/arcoder) is a phonetic encoder for transliterated Arabic names, designed to support similarity matching across the many inconsistent romanizations a single Arabic name can produce (e.g., *Mohammed*, *Muhammad*, *Mohamed*). The encoder normalizes these variants into a small set of canonical symbol sequences that can be compared directly, supporting entity resolution, record linkage, and deduplication where exact string equality fails.
+
+The library provides two implementations: `ARCoder`, the algorithm described in [Moore, Hamid, and Bromberger (2023)](/files/Paper_1__AR_Coder.pdf), and `Holmes`, a reference implementation of the earlier method from Holmes, Kashfi, and Aqeel (2004) for comparison. The accompanying paper evaluates both against transliteration variants drawn from real-world datasets.
+
 ### GoMPI - Message Passing Interface for Go {#gompi}
 
 [GoMPI](https://github.com/sbromberger/gompi) is a lightweight Go wrapper around the [OpenMPI](https://www.open-mpi.org) library for developing parallel computing algorithms. At large message sizes, GoMPI matches or exceeds native MPI latency, making it a viable option for high-performance parallel workloads in Go.
