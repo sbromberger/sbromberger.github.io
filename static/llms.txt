@@ -1,0 +1,16 @@
+# Seth Bromberger
+
+> Security practitioner and educator protecting national critical infrastructure and developing the next generation of cybersecurity professionals.
+
+## Pages
+
+- [Leaving ISC2](https://www.bromberger.com/isc2/): Why I let my 25-year CISSP-ISSMP lapse after ISC2 denied my Emeritus application
+
+- [Homepage](https://www.bromberger.com/): Profile and overview
+- [About](https://www.bromberger.com/about/): Background, career history, patents, and research focus
+- [Publications & Press](https://www.bromberger.com/publications/): Academic publications, presentations, and press coverage
+- [Projects & Research](https://www.bromberger.com/projects/): Open source projects and security research including CLIPPy, MetallData, LightGraphs.jl, NetCanary, TopSight, and ICS/AMI security work
+
+## Optional
+
+- [Full sitemap](https://www.bromberger.com/sitemap.xml)
