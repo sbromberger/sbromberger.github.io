@@ -2,6 +2,12 @@ baseURL = "https://www.bromberger.com/"
 languageCode = "en"
 title = "Seth Bromberger"
 theme = "congo"
+enableGitInfo = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [markup.goldmark.parser.attribute]
   block = true
