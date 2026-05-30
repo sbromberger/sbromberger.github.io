@@ -1,5 +1,5 @@
 baseURL = "https://www.bromberger.com/"
-languageCode = "en"
+defaultContentLanguage = "en"
 title = "Seth Bromberger | Critical Infrastructure Security"
 theme = "congo"
 enableGitInfo = true
